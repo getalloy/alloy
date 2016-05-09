@@ -1,4 +1,4 @@
-![alloy](src/img/alloy.svg)
+![alloy](https://raw.githubusercontent.com/getalloy/alloy/master/src/img/alloy.svg)
 
 # alloy
 
