@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include '_partials/head.html' %}
+  </head>
+  <body class="fill-gray-lighter" >
+    {% include '_partials/nav.html' %}
+    <div class="xs-col-12 sm-col-9 lg-col-10 sm-offset-3 lg-offset-2">
+      <div class="xs-col-11 xs-py3 xs-px1 xs-mx-auto xs-my4">
+        {% block masthead %}{% endblock %}
+        {% block main %}{% endblock %}
+        {% include '_partials/footer.html' %}
+      </div>
+    </div>
+    {% include '_partials/scripts.html' %}
+  </body>
+</html>

@@ -1,0 +1,22 @@
+---
+slug: home
+path: "/"
+title: Get Alloy — Modern web defaults for Metalsmith.
+description: Alloy is a set of modern web tools to enable lightning fast build and deploy for Metalsmith.
+image: alloy-1200x630.jpg
+sitemap_exclude: false
+---
+
+{% extends 'templates/default.html' %}
+
+{% block masthead %}
+  <img src="/media/booth.jpg" alt="Welcome to the alloy masthead." class="rounded" />
+{% endblock %}
+
+{% block main %}
+  <h1 class="xs-col-11 sm-col-10 xs-mx-auto xs-border-bottom xs-pb3 xs-mb4 sm-my4">alloy</h1>
+  <div class="xs-col-11 sm-col-10 xs-mx-auto">
+    <h2 class="bold xs-mb2">What is alloy?</h2>
+    <p class="xs-mb2"><strong>alloy</strong> is a set of tools for the modern web built with <a href="http://metalsmith.io">Metalsmith.</a> Think of it as a really nice boilerplate for Metalsmith with an opinionated, streamlined approach. <strong>alloy</strong> gives you everything you need to get up and running with Metalsmith and deploy static sites with ease. It is the result of things learned building and deploying websites for <a href="https://meetcircle.com">Circle with Disney</a>.</p>
+  </div>
+{% endblock %}

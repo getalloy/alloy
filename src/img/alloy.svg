@@ -1,0 +1,84 @@
+<svg width="1091" height="612" viewBox="0 0 1091 612" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>alloy</title>
+<desc>Created using Figma (9000)</desc>
+<g id="Canvas" transform="translate(-432 -308)" figma:type="canvas">
+<g id="alloy" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(432 308)" fill="#2C3032" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path1_fill" transform="translate(432 308)" fill="#2C3032" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path2_fill" transform="translate(432 308)" fill="#2C3032" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path3_fill" transform="translate(432 308)" fill="#2C3032" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path4_fill" transform="translate(432 308)" fill="#2C3032" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="
+M 130.5 202
+C 80.5182 202 40 242.518 40 292.5
+C 40 342.482 80.5182 383 130.5 383
+L 161 383
+C 172.046 383 181 391.954 181 403
+C 181 414.046 172.046 423 161 423
+L 130.5 423
+C 58.4268 423 0 364.573 0 292.5
+C 0 220.427 58.4268 162 130.5 162
+C 202.573 162 261 220.427 261 292.5
+L 261 383
+L 261 443
+C 261 454.046 252.046 463 241 463
+C 229.954 463 221 454.046 221 443
+L 221 383
+L 221 351
+L 221 292.5
+C 221 242.518 180.482 202 130.5 202
+Z"/>
+<path id="path1_fill" d="
+M 374 414
+L 374 20
+C 374 8.9543 365.046 0 354 0
+C 342.954 0 334 8.9543 334 20
+L 334 414
+C 334 425.046 342.954 434 354 434
+C 365.046 434 374 425.046 374 414
+Z"/>
+<path id="path2_fill" d="
+M 487 414
+L 487 20
+C 487 8.9543 478.046 0 467 0
+C 455.954 0 447 8.9543 447 20
+L 447 414
+C 447 425.046 455.954 434 467 434
+C 478.046 434 487 425.046 487 414
+Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="
+M 560 306
+C 560 235.308 617.308 178 688 178
+C 758.692 178 816 235.308 816 306
+C 816 376.692 758.692 434 688 434
+C 617.308 434 560 376.692 560 306
+Z
+M 600 306
+C 600 257.399 639.399 218 688 218
+C 736.601 218 776 257.399 776 306
+C 776 354.601 736.601 394 688 394
+C 639.399 394 600 354.601 600 306
+Z"/>
+<path id="path4_fill" d="
+M 1091 592
+L 1091 198
+C 1091 186.954 1082.05 178 1071 178
+C 1059.95 178 1051 186.954 1051 198
+L 1051 386
+L 1013.67 386
+C 961.384 386 919 343.616 919 291.333
+L 919 198
+C 919 186.954 910.046 178 899 178
+C 887.954 178 879 186.954 879 198
+L 879 291.333
+C 879 365.708 939.292 426 1013.67 426
+L 1051 426
+L 1051 592
+C 1051 603.046 1059.95 612 1071 612
+C 1082.05 612 1091 603.046 1091 592
+Z"/>
+</defs>
+</svg>

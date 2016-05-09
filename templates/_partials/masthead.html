@@ -1,0 +1,18 @@
+{% if masthead_bg %}
+  <div style="background-image: {{ masthead_bg }};" class="masthead image">
+    <div class="overlay">
+      {% block masthead %}{% endblock %}
+    </div>
+  </div>
+{% else %}
+  <div class="masthead {{ title }}">
+    <div class="overlay">
+      {% if title == 'Tech Specs' %}
+        <span class="icon icon-circle"></span>
+        <h1>{{ title }}</h1>
+      {% else %}
+        <h1>{{ title }}</h1>
+      {% endif %}
+    </div>
+  </div>
+{% endif %}

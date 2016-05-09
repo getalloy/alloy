@@ -1,0 +1,12 @@
+# Apple stuff
+.DS_Store
+
+# Node stuff
+node_modules/
+npm-debug.log
+
+# Sass stuff
+.sass-cache
+
+# Metalsmith stuff
+build/
