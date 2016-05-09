@@ -52,6 +52,7 @@ $z4: 400;
 // -------------------------
 
 // Fills
+$fill-gray-darker: #2c3032;
 $fill-red: #e32;
 $fill-red-lighter: #feebe9;
 $fill-pink: #eb2649;
@@ -62,9 +63,8 @@ $fill-green: #6fb824;
 $fill-green-lighter: #f1f8e9;
 $fill-orange: #f49c1a;
 $fill-promoted-orange: #edb802;
-$fill-gray-lighter: #f4f4f4;
-$fill-gray: #aaa;
-$fill-gray-darker: #222;
+$fill-gray-lighter: lighten($fill-gray-darker, 77%);
+$fill-gray: lighten($fill-gray-darker, 40%);
 $fill-white: #fff;
 
 // Social Fills
@@ -81,7 +81,7 @@ $fill-snapchat: #fffc00;
 
 // Type Colors
 $text-white: #fff;
-$text-gray: #333;
+$text-gray: #2c3032;
 $text-gray-lighter: #666;
 $text-gray-lightest: #999;
 $text-red: #e32;
@@ -145,6 +145,6 @@ $fill-red--lighter: #feebe9;
 $fill-yellow--lighter: #fffab6;
 $fill-green--lighter: #f1f8e9;
 $fill-gray--lighter: #f4f4f4;
-$fill-gray--darker: #222;
+$fill-gray--darker: #2c3032;
 $text-gray--lighter: #666;
 $text-gray--lightest: #999;
