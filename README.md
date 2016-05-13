@@ -1,4 +1,4 @@
-![alloy](https://dl.dropboxusercontent.com/u/960204/alloy/alloy.svg)
+![alloy](https://dl.dropboxusercontent.com/u/960204/alloy/booth.jpg)
 
 # alloy
 
